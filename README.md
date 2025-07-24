@@ -71,7 +71,7 @@ To set up the project locally, follow these steps:
 
 1.  **Open the Jupyter Notebook:**
     ```bash
-    jupyter notebook segmentation_res_unet.ipynb
+    jupyter notebook segmentation_res_unet_vscode.ipynb
     ```
 
 2.  **Run the cells sequentially:**
