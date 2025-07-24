@@ -160,7 +160,7 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 
 This project is open-source and available under the MIT License.
 
-## Citations
+## Bibliography
 
 Please cite the following if you use this dataset or approach in your work:
 
@@ -179,3 +179,18 @@ Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks f
 **Residual Connections:**
 
 He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 770-778).
+
+**Tools and Datasets Used**
+- Programming Language: Python
+
+- Deep Learning Framework: PyTorch
+
+- Data Handling & Analysis: NumPy, Pandas, Nibabel
+
+- Image Processing: OpenCV (cv2), Scikit-learn (for utilities)
+
+- Visualization: Matplotlib
+
+- Dataset API: Kaggle API
+
+- Primary Dataset: BraTS 2020 (Brain Tumor Segmentation)
